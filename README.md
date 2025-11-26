@@ -31,4 +31,3 @@ The content includes **PDF documents** (assignments, reports, notes) and **image
 ---
 
 Thank you for visiting — feel free to download or review any of the lab resources here.  
-thank you
